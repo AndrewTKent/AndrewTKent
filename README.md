@@ -2,7 +2,7 @@
 - Currently a Physics Graduate Student at Brown University 
 - Conducting Silicon Sensor Irradiation Research for the CMS Collaboration at CERN
 - I’m interested in Quantitative Finance
-- I'm currently looking for either collaborators or for a full-time quant role
+- I'm currently looking for a full-time quant role
 - You can reach me via andrew_kent@brown.edu
 
 <!---
