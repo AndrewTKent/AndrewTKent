@@ -1,6 +1,6 @@
 - Hi, I’m @AndrewTKent
-- Currently a Physics Graduate Student at Brown University 
-- Conducting Silicon Sensor Irradiation Research for the CMS Collaboration at CERN
+- Physics Graduate Student at Brown University 
+- Conducted Silicon Sensor Irradiation Research for the CMS Collaboration at CERN
 - I'm currently looking for full-time roles
 - You can reach me via andrew_kent@brown.edu
 
