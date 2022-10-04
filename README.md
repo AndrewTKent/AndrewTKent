@@ -1,7 +1,7 @@
 - Hi, I’m @AndrewTKent
-- Physics Graduate Student at Brown University 
+- Currently a ML Engineer at Nextera Robotics
+- Former Physics Graduate Student at Brown University 
 - Conducted Silicon Sensor Irradiation Research for the CMS Collaboration at CERN
-- I'm currently looking for full-time roles
 - You can reach me via andrew_kent@brown.edu
 
 <!---
