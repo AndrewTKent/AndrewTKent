@@ -1,8 +1,7 @@
 - Hi, I’m @AndrewTKent
-- Currently a ML Engineer at Nextera Robotics
+- Currently a Head of ML at Nextera Robotics
 - Brown University Physics MSc
-- UCLA Physics BSc Math BSc 
-- Conducted Silicon Sensor Irradiation Research for the CMS Collaboration at CERN
+- UCLA Physics BSc & Math BSc 
 - You can reach me via andrew_kent@brown.edu
 
 <!---
