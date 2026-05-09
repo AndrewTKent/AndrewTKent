@@ -6,9 +6,9 @@ Senior ML Engineer at [Coram AI](https://www.coram.ai) · Palo Alto, CA
 
 ### Currently building
 
-- Real-time voice + text AI agent on [LiveKit](https://livekit.io) at Coram, multi-provider LLM orchestration (OpenAI Realtime, Gemini, Claude) with 35+ tools across security devices, alerts, people tracking, access control, and video search
-- Per-container GPU memory monitoring on edge NVR devices via OpenTelemetry, resolved an OOM crash-loop and cut overhead 20%+
-- Adaptive rate limiter for our LLM eval framework — async-safe, cuts CI run times ~3x
+- Real-time voice + text AI agents on [LiveKit](https://livekit.io) at Coram
+- Edge ML observability and reliability tooling for the security-camera fleet
+- LLM eval and CI infrastructure
 
 ### Previously
 
@@ -31,7 +31,7 @@ Senior ML Engineer at [Coram AI](https://www.coram.ai) · Palo Alto, CA
 
 ### Off the clock
 
-Before the engineering career, I trained as a chef at the [Culinary Institute of America](https://www.ciachef.edu) (Napa Valley + Hyde Park, 2012–2016) and worked the line as chef de partie at COI, Manresa, and Baume — all 2–3 Michelin star.
+Before the engineering career, I trained as a chef at the [Culinary Institute of America](https://www.ciachef.edu) (Napa Valley + Hyde Park, 2011–2013) and worked the line as chef de partie at COI, Manresa, and Baume — all 2–3 Michelin star.
 
 These days the energy goes into endurance racing. Recent and upcoming:
 
