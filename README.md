@@ -41,6 +41,7 @@ These days the energy goes into endurance racing. Recent and upcoming:
 | Tarawera 100-Mile Ultra | Rotorua, NZ | Feb 2026 |
 | Ironman | Nice, France | Jun 2026 |
 | Kagaspa 100K Ultra | Ishikawa, Japan | Jun 2026 |
+| Ironman California | Sacramento, CA | Oct 2026 |
 
 ---
 
