@@ -6,9 +6,7 @@ Senior ML Engineer at [Coram AI](https://www.coram.ai) · Palo Alto, CA
 
 ### Currently building
 
-- Real-time voice + text AI agents on [LiveKit](https://livekit.io) at Coram
-- Edge ML observability and reliability tooling for the security-camera fleet
-- LLM eval and CI infrastructure
+- Real-time voice + text AI agents at Coram
 
 ### Previously
 
