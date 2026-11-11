@@ -32,15 +32,15 @@ AI Engineer at [Sol](https://www.meetsol.com) · Palo Alto, CA
 
 Before the engineering career, I trained as a chef at the [Culinary Institute of America](https://www.ciachef.edu) (Napa Valley + Hyde Park, 2011–2013) and worked the line as chef de partie at COI, Manresa, and Baume — all 2–3 Michelin star.
 
-These days the energy goes into endurance racing. Results: [IRONMAN](https://www.coachcox.co.uk/imstats/athlete/1220192/) · [UTMB](https://utmb.world/runner/7527491.andrew.kent)
+These days the energy goes into endurance racing:
 
 | Event | Where | When | Result |
 |---|---|---|---|
-| Ironman California | Sacramento, CA | Oct 2026 | [Finished](https://www.coachcox.co.uk/imstats/athlete/1220192/) |
+| Ironman California | Sacramento, CA | Oct 2026 | [Finished](https://www.ironman.com/races/im-california/results) |
 | Kaga Spa 100K by UTMB | Ishikawa, Japan | Jun 2026 | [Results](https://utmb.world/runner/7527491.andrew.kent) |
 | Ironman France | Nice, France | Jun 2026 | Race cancelled |
 | Tarawera 100-Mile by UTMB | Rotorua, NZ | Feb 2026 | [Results](https://utmb.world/runner/7527491.andrew.kent) |
-| Ironman 70.3 St. George | St. George, UT | May 2025 | [Finished](https://www.coachcox.co.uk/imstats/athlete/1220192/) |
+| Ironman 70.3 St. George | St. George, UT | May 2025 | Finished |
 
 ---
 
